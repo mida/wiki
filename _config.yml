@@ -1,4 +1,4 @@
-baseurl: /wiki
+baseurl: ""
 permalink: pretty
 markdown: kramdown
 exclude: [vendor]
